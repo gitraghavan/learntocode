@@ -1,17 +1,17 @@
 {
-  "name": "nodees6",
-  "version": "1.0.0",
-  "description": "Learning Node with ES6",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "Node",
-    "ES6",
-    "Learn",
-    "the",
-    "Core"
-  ],
-  "author": "Raghavan RC",
-  "license": "ISC"
+	"name": "nodees6",
+	"version": "1.0.0",
+	"description": "Learning Node with ES6",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"Node",
+		"ES6",
+		"Learn",
+		"the",
+		"Core"
+	],
+	"author": "Raghavan RC",
+	"license": "ISC"
 }
