@@ -1,0 +1,19 @@
+/* Global Styles */
+
+* {
+    box-sizing: border-box;
+}
+
+html body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+code {
+    display: block;
+    background-color: #3D5B59;
+    color: #fff;
+    padding: 10px;
+}
+pre {
+    margin: 0;
+}

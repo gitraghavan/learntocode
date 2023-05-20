@@ -3,15 +3,20 @@
 	"version": "1.0.0",
 	"description": "Learning Node with ES6",
 	"scripts": {
+		"start": "node createServer.js",
+		"start:watch": "nodemon createServer.js",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"keywords": [
 		"Node",
 		"ES6",
-		"Learn",
-		"the",
-		"Core"
+		"Core Learning",
+		"Interview ready"
 	],
 	"author": "Raghavan RC",
-	"license": "ISC"
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.2",
+		"sass": "^1.62.1"
+	}
 }

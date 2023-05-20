@@ -1,0 +1,8 @@
+# VS Code Locations
+.vscode
+
+# Dependency locations
+node_modules/
+
+# Miscellaneous files
+package-lock.json
